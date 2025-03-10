@@ -95,6 +95,4 @@ def inicio():
         print('Placar: Você 0 x 3 Computador')
 
 
-inicio()
-
 
