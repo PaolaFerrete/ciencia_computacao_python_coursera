@@ -94,5 +94,5 @@ def inicio():
         print('\n')
         print('Placar: Você 0 x 3 Computador')
 
-
+inicio()
 
